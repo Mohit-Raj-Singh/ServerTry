@@ -1,8 +1,5 @@
 {
-  "user":[
-    {"name":"abc",
-      "age":25
-  }
+  "todos":[
   ],
   "users":[
     {"name":"abc",
