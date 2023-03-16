@@ -1,12 +1,8 @@
 {
   "user":[
-    {"name":"abc",
-      "age":25
-  }
-  ],
-  "users":[
-    {"name":"abc",
-      "age":25
-  }
+    {
+      "title":"mohit",
+      "id":1
+    }
   ]
 }
